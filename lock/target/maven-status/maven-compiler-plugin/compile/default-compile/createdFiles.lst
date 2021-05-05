@@ -1,0 +1,3 @@
+ds/tutorial/distributed/synchronization/lock/DistributedLock.class
+ds/tutorial/distributed/synchronization/lock/DummyProcess.class
+ds/tutorial/distributed/synchronization/lock/ZooKeeperClient.class
